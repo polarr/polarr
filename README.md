@@ -3,9 +3,9 @@ Hello, I'm a 14yo student living in Canada 🍁.<br>
 See what I am up to on [my website](https://1egend.github.io)<br><br>
 <b>Interests</b>
 <br>
-[Contest Math](https://artofproblemsolving.com/community/user/IQ_Infinity)<br>
-[Competitive Programming](https://codeforces.com/profile/1egend)<br>
-[Graphics rendering](https://www.shadertoy.com/user/IAmLegend)<br><br>
+<a href = "https://artofproblemsolving.com/community/user/IQ_Infinity">Contest Math</a><br>
+<a href = "https://codeforces.com/profile/1egend">Competitive Programming</a><br>
+<a href = "https://www.shadertoy.com/user/IAmLegend">Graphics rendering</a><br><br>
 
 **Connect**<br>
 Discord- CSA#3493
