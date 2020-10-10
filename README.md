@@ -8,4 +8,4 @@ See what I am up to on <a href = "https://1egend.github.io">my website</a><br><b
 <a href = "https://www.shadertoy.com/user/IAmLegend">Graphics rendering</a><br><br>
 
 **Connect**<br>
-Discord- CSA#3493
+Discord- 1egend#3493
