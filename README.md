@@ -12,4 +12,4 @@ See what I am up to on <a href = "https://1e9end.github.io">my website</a><br><b
 C/C++, Python, HTML/CSS, JS
 
 **Connect**<br>
-Discord- 1egend#3493
+Discord- 1egend#3493 (no spam pls)
