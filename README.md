@@ -13,3 +13,5 @@ C/C++, Python, HTML/CSS, JS
 
 **Connect**<br>
 Discord- 1egend#3493 (no spam pls)
+
+![1egend's github stats](https://github-readme-stats.vercel.app/api?username=1e9end)
