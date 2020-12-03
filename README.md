@@ -17,4 +17,4 @@ C/C++, Python, HTML/CSS, JS, JSON
 **Connect**<br>
 Discord- 1egend#3493
 
-![1egend's github stats](https://github-readme-stats.vercel.app/api?username=1e9end&hide=issues,prs&count_private=true&theme=cobalt)
+![1egend's github stats](https://github-readme-stats.vercel.app/api?username=1e9end&hide=issues,prs&count_private=true&show_icons=true&title_color=00ffff&bg_color=10,2f2f2f,a9a9a9&text_color=ffffff&icon_color=ffff00)
