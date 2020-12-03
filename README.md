@@ -1,4 +1,4 @@
-<h1>Hello! I'm <b>1egend</b>, a 14yo student living in Canada 🍁.</h1><br>
+## Hello! I'm 1egend, a 14yo student living in Canada 🍁.<br>
 See what I am up to on <a href = "https://1e9end.github.io">my website</a><br><br>
 <b>Fields of Interest</b>
 <br>
