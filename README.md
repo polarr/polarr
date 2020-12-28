@@ -12,7 +12,7 @@ See what I am up to on <a href = "https://1e9end.github.io">my website</a><br><b
 </ul>
 <b>Proficient Languages</b>
 <br>
-C/C++, Java, Python, HTML/CSS, JS/jQuery, Node.js
+C/C++, Java, Python, HTML/CSS, JS/jQuery
 
 **Connect**<br>
 Discord- 1egend#3493
