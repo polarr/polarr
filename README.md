@@ -3,7 +3,7 @@ See what I am up to on <a href = "https://1e9end.github.io">my website</a><br><b
 <b>Fields of Interest</b>
 <br>
 <ul>
-<li><a href = "https://artofproblemsolving.com/community/user/IQ_Infinity">Contest Math - currently USAJMO level</a><br></li>
+<li><a href = "https://artofproblemsolving.com/community/user/IAmLegend">Contest Math - currently USAJMO level</a><br></li>
 <li><a href = "https://codeforces.com/profile/1egend">Competitive Programming & Algorithms with C++</a><br></li>
 <li><a href = "https://www.shadertoy.com/user/IAmLegend">Graphics rendering with OpenGL and WebGL</a><br></li>
 <li>Backend Web development & client/serverside with JS, jQuery, Node.js</li>
