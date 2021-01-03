@@ -20,7 +20,6 @@ I'm a 14 year old student living in Canada. See what I am up to on my [website]!
 [<img align="left" alt="jQuery" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"/>][github]
 [<img align="left" alt="OpenGL" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/1280px-Opengl-logo.svg.png"/>][github]
 [<img align="left" alt="WebGL" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/WebGL_Logo.svg/1280px-WebGL_Logo.svg.png"/>][github]
-[<img align="left" alt="OpenGL" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/opengl-1-logo-png-transparent.png"/>][github]
 <br />
 
 ### Connect
