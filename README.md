@@ -1,5 +1,5 @@
 ### Hello, I'm 1egend! 👋
-I am a 14 year old student living in Canada. See what I am up to on my [website] <p align = "right"> <img src="https://komarev.com/ghpvc/?username=1e9end" alt="1e9end" /> </p>
+I am a 14 year old student living in Canada. See what I am up to on my [website]! <p align = "right"> <img src="https://komarev.com/ghpvc/?username=1e9end" alt="1e9end" /> </p>
 
 ## My Interests
 - [Contest Math](https://artofproblemsolving.com/community/user/IAmLegend)
