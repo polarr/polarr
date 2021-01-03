@@ -36,7 +36,7 @@ I'm a 14 year old student living in Canada. See what I am up to on my [website]!
 [website]: https://1e9end.github.io
 [github]:  https://github.com/1e9end
 [youtube]: https://www.youtube.com/channel/UClZN6f71XImxoznqJ4jPknw
-[discord]: https://discord.com/channels/@me/365886855469727745
+[discord]: https://pastebin.com/B0XpGWF0
 [aops]: https://artofproblemsolving.com/community/user/IAmLegend
 [codeforces]: https://codeforces.com/profile/1egend
 [shadertoy]: https://www.shadertoy.com/user/IAmLegend
