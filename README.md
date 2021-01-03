@@ -28,10 +28,11 @@ I'm a 14 year old student living in Canada. See what I am up to on my [website]!
 [<img align="left" alt="Youtube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Discord" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="Codeforces" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
-[<img align="left" alt="AoPS" width="30px" src="https://mark.trademarkia.com/logo-images/aops-incorporated/logo-86707331.jpg" />][aops]
 <br />
 --- 
-[![1egend's github stats](https://github-readme-stats.vercel.app/api?username=1e9end&hide=issues,prs&count_private=true&show_icons=true&title_color=00ffff&bg_color=10,2f2f2f,a9a9a9&text_color=ffffff&icon_color=ffff00)
+<img align="left" alt="1e9end's Github Stats" src="https://github-readme-stats.vercel.app/api?username=1e9end&hide=issues,prs&count_private=true&show_icons=true&title_color=4d4dff&bg_color=000000&text_color=ffffff&icon_color=ffff00" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1e9end&show_icons=true&hide_border=true)](github)
 
 [website]: https://1e9end.github.io
 [github]:  https://github.com/1e9end
