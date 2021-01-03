@@ -1,5 +1,5 @@
 ### Hello, I'm 1egend! 👋 <p align="right"> 
-See what I am up to on my [website] <img src="https://komarev.com/ghpvc/?username=arnabadeypolimi" alt="arnabadeypolimi" /> </p>
+See what I am up to on my [website] <p align = "right> <img src="https://komarev.com/ghpvc/?username=arnabadeypolimi" alt="arnabadeypolimi" /> </p>
 
 ## My Interests
 - [Contest Math](https://artofproblemsolving.com/community/user/IAmLegend)
