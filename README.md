@@ -1,5 +1,5 @@
-### Hello, I'm 1egend! 👋
-See what I am up to on [my website](website)
+### Hello, I'm 1egend! 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=arnabadeypolimi" alt="arnabadeypolimi" /> </p>
+See what I am up to on my [website]
 
 ## My Interests
 - [Contest Math](https://artofproblemsolving.com/community/user/IAmLegend)
