@@ -3,7 +3,7 @@ I'm a 14 year old student living in Canada. See what I am up to on my [website]!
 ## My Interests
 - [Contest Math][aops]
 - [Competitive Programming (C++)][codeforces]
-- Fullstack Web Development (MEARN)
+- Fullstack Web Development (MEAN)
 - [Computer Graphics (Open/WebGL)][shadertoy]
 - Game development (WebGL, Processing, Pygame)
 - Machine Learning (Python, Tensorflow)
