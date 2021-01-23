@@ -3,8 +3,8 @@ I'm a 14 year old student living in Canada. See what I am up to on my [website]!
 ## My Interests
 - [Contest Math][aops]
 - [Competitive Programming (C++)][codeforces]
-- Backend Web Development (JS, jQuery, Node)
-- [Computer Graphics (OpenGL, WebGL)][shadertoy]
+- Fullstack Web Development (MEARN)
+- [Computer Graphics (Open/WebGL)][shadertoy]
 - Game development (WebGL, Processing, Pygame)
 - Machine Learning (Python, Tensorflow)
 
@@ -15,8 +15,10 @@ I'm a 14 year old student living in Canada. See what I am up to on my [website]!
 [<img align="left" alt="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>][github]
 [<img align="left" alt="HTML5" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>][github]
 [<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
-[<img align="left" alt="Node.js" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>][github]
 [<img align="left" alt="jQuery" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"/>][github]
+[<img align="left" alt="Node.js" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>][github]
+[<img align="left" alt="Angular" width="40px" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"/>][github]
+[<img align="left" alt="MongoDB" width="40px" src="https://img.icons8.com/color/452/mongodb.png"/>][github]
 [<img align="left" alt="OpenGL" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/1280px-Opengl-logo.svg.png"/>][github]
 [<img align="left" alt="WebGL" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/WebGL_Logo.svg/1280px-WebGL_Logo.svg.png"/>][github]
 <br />
