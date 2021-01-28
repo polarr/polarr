@@ -1,5 +1,5 @@
 ### Hello, I'm 1egend! 👋 <img src="https://komarev.com/ghpvc/?username=1e9end" alt="1e9end" /> 
-I'm a 14 year old student living in Canada. See what I am up to on my [website]! 
+I'm a 15 year old student living in Canada. See what I am up to on my [website]! 
 ## My Interests
 - [Contest Math][aops] and advanced math including Calculus up to Linear Algebra
 - [Competitive Programming (C++)][codeforces]
