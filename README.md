@@ -10,17 +10,18 @@ I'm a 15 year old student living in Canada. See what I am up to on my [website]!
 
 ### Tools & Languages:
 
-[<img align="left" alt="C++" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>][github]
-[<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>][github]
-[<img align="left" alt="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>][github]
-[<img align="left" alt="HTML5" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>][github]
-[<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
-[<img align="left" alt="jQuery" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"/>][github]
-[<img align="left" alt="Node.js" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>][github]
-[<img align="left" alt="Angular" width="40px" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"/>][github]
-[<img align="left" alt="MongoDB" width="40px" src="https://img.icons8.com/color/452/mongodb.png"/>][github]
-[<img align="left" alt="OpenGL" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/1280px-Opengl-logo.svg.png"/>][github]
-[<img align="left" alt="WebGL" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/WebGL_Logo.svg/1280px-WebGL_Logo.svg.png"/>][github]
+[<img align="left" title="C++" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>][github]
+[<img align="left" title="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>][github]
+[<img align="left" title="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>][github]
+[<img align="left" title="HTML5" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>][github]
+[<img align="left" title="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
+[<img align="left" title="jQuery" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"/>][github]
+[<img align="left" title="Node.js" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>][github]
+[<img align="left" title="Angular" width="40px" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"/>][github]
+[<img align="left" title="MongoDB" width="40px" src="https://img.icons8.com/color/452/mongodb.png"/>][github]
+[<img align="left" title="Heroku" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/heroku-225989.png"/>][github]
+[<img align="left" title="OpenGL" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/1280px-Opengl-logo.svg.png"/>][github]
+[<img align="left" title="WebGL" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/WebGL_Logo.svg/1280px-WebGL_Logo.svg.png"/>][github]
 <br />
 
 ### Connect
