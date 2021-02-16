@@ -31,7 +31,7 @@ I'm a 15 year old student living in Canada. See what I am up to on my [website]!
 [<img align="left" alt="Codeforces" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
 <br />
 --- 
-<img align="left" alt="1e9end's Github Stats" src="https://github-readme-stats.vercel.app/api?username=1e9end&hide=issues,prs&count_private=true&show_icons=true&hide_border=true&title_color=4d4dff&bg_color=000000&text_color=ffffff&icon_color=ffff00" />
+<img align="left" alt="1e9end's Github Stats" src="https://github-readme-stats.vercel.app/api?username=1e9end&hide=issues,prs&count_private=true&show_icons=true&hide_border=true&title_color=ffffff&bg_color=000000&text_color=ffffff&icon_color=ffff00" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1e9end&show_icons=true&hide_border=true)](github)
 
