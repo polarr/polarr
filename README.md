@@ -1,14 +1,14 @@
-### Hello, I'm 1egend! 👋 <img src="https://komarev.com/ghpvc/?username=1e9end" alt="1e9end" /> 
-I'm a 15 year old student living in Canada. See what I am up to on my [website]! 
+### Hello, I'm [1egend][website]! 👋 
+I'm a 15 year old student living in Canada.
 ## My Interests
-- [Contest Math][aops] & Advanced Math
-- [Competitive Programming (C++)][codeforces]
-- Fullstack Web Development (MEAN)
-- [Computer Graphics (Open/WebGL)][shadertoy]
-- Game development (WebGL, Processing, Pygame)
-- Machine Learning (Python, Tensorflow)
+- [Contest Math][aops]
+- [Competitive Programming][codeforces]
+- Fullstack Web Development
+- [Computer Graphics][shadertoy]
+- Game development
+- Machine Learning
 
-### Tools & Languages:
+### Tools, Frameworks, Platforms & Languages:
 
 [<img align="left" title="C++" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>][github]
 [<img align="left" title="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>][github]
@@ -32,8 +32,6 @@ I'm a 15 year old student living in Canada. See what I am up to on my [website]!
 <br />
 --- 
 <img align="left" alt="1e9end's Github Stats" src="https://github-readme-stats.vercel.app/api?username=1e9end&hide=issues,prs&count_private=true&show_icons=true&hide_border=true&title_color=ffffff&bg_color=000000&text_color=ffffff&icon_color=ffff00" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1e9end&show_icons=true&hide_border=true)](github)
 
 [website]: https://1e9end.github.io
 [github]:  https://github.com/1e9end
