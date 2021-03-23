@@ -4,7 +4,7 @@ I'm a 15 year old student living in Canada.
 - [Contest Math][aops]
 - [Competitive Programming][codeforces]
 - Fullstack Web Development
-- [Computer Graphics][shadertoy]
+- [Computer Graphics][graphics]
 - Game development
 - Machine Learning
 
@@ -39,4 +39,5 @@ I'm a 15 year old student living in Canada.
 [discord]: https://discord.com/users/365886855469727745
 [aops]: https://artofproblemsolving.com/community/user/IAmLegend
 [codeforces]: https://codeforces.com/profile/1egend
+[graphics]: https://1e9end.github.io/graphics
 [shadertoy]: https://www.shadertoy.com/user/IAmLegend
