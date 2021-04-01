@@ -1,5 +1,7 @@
 ### Hello, I'm [1egend][website]! 👋 
 I'm a 15 year old student living in Canada.
+[DOWNLOAD FREE RAM!!!][troll]
+
 ## My Interests
 - [Contest Math][aops]
 - [Competitive Programming][codeforces]
@@ -33,6 +35,7 @@ I'm a 15 year old student living in Canada.
 --- 
 <img align="left" alt="1e9end's Github Stats" src="https://github-readme-stats.vercel.app/api?username=1e9end&hide=issues,prs&count_private=true&show_icons=true&hide_border=true&title_color=ffffff&bg_color=000000&text_color=ffffff&icon_color=ffff00" />
 
+[troll]: https://1e9end.github.io/lol
 [website]: https://1e9end.github.io
 [github]:  https://github.com/1e9end
 [youtube]: https://www.youtube.com/channel/UClZN6f71XImxoznqJ4jPknw
