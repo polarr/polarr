@@ -22,7 +22,6 @@ I'm a 15 year old student living in Canada.
 [<img align="left" title="Angular" width="40px" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"/>][github]
 [<img align="left" title="MongoDB" width="40px" src="https://img.icons8.com/color/452/mongodb.png"/>][github]
 [<img align="left" title="Heroku" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/heroku-225989.png"/>][github]
-[<img align="left" title="OpenGL" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/1280px-Opengl-logo.svg.png"/>][github]
 [<img align="left" title="WebGL" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/WebGL_Logo.svg/1280px-WebGL_Logo.svg.png"/>][github]
 <br />
 
