@@ -17,6 +17,7 @@ I'm a 15 year old student living in Canada.
 [<img align="left" title="HTML5" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>][github]
 [<img align="left" title="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
 [<img align="left" title="jQuery" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"/>][github]
+[<img align="left" title="Socket.io" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg"/>][github]
 [<img align="left" title="Node.js" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>][github]
 [<img align="left" title="Angular" width="40px" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"/>][github]
 [<img align="left" title="MongoDB" width="40px" src="https://img.icons8.com/color/452/mongodb.png"/>][github]
