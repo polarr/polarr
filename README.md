@@ -4,8 +4,8 @@ I'm a 15 year old student living in Canada.
 ## My Interests
 - Competitive Programming
 - Fullstack Web Development
-- [Computer Graphics][graphics]
-- [Game development][processing]
+- Computer Graphics
+- Game development
 - Machine Learning
 - Contest Math
 
