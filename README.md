@@ -7,6 +7,7 @@ I'm a 15 year old student living in Canada.
 - [Computer Graphics][graphics]
 - [Game development][processing]
 - Machine Learning
+- Contest Math
 
 ### Tools, Frameworks, Platforms & Languages:
 
