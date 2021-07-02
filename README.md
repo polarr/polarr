@@ -2,7 +2,7 @@
 I'm a 15 year old student living in Canada.
 
 ## My Interests
-- [Competitive Programming][codeforces]
+- Competitive Programming
 - Fullstack Web Development
 - [Computer Graphics][graphics]
 - [Game development][processing]
