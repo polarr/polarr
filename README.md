@@ -1,13 +1,12 @@
 ### Hello, I'm [1egend][website]! 👋 
 I'm a 15 year old student living in Canada.
 
-## Interests
+## CS Interests
 - Competitive Programming
 - Fullstack Web Development
 - Computer Graphics
 - Game development
 - Machine Learning
-- Contest Math
 
 ### Tools, Frameworks, Platforms & Languages:
 
