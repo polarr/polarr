@@ -27,7 +27,7 @@
   <h2>𝗦𝗞𝗜𝗟𝗟𝗦</h2>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Javacript-F7DF1E?logo=Javascript&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=Javascript&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge">
   <br>
   <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=Typescript&logoColor=white&style=for-the-badge">
