@@ -1,31 +1,51 @@
-### Hello, I'm [1egend][website]! 👋 
-I'm a 15 year old student living in Canada.
-
-## CS Interests
-- Fullstack Web Development
-- Competitive Programming
-- Computer Graphics
-- Game development
-- Machine Learning
-
-[<img align="left" alt="1e9end.github.io" width="30px" src="https://i.pinimg.com/originals/fd/b0/13/fdb01354a7f787c8d3191c8759c7d428.png" />][website]
-[<img align="left" alt="Discord" height="30x" src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" />][discord]
-[<img align="left" alt="Youtube" height="30px" src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" />][youtube]
-[<img align="left" alt="Art of Problem Solving" height="30px" src="https://aops-rss.herokuapp.com/logo.png" />][aops]
-
-<br />
-
------
-
-
-<img align="left" alt="1e9end's Github Stats" src="https://github-readme-stats.vercel.app/api?username=1e9end&hide=issues,prs&count_private=true&show_icons=true&hide_border=true&title_color=ffffff&bg_color=000000&text_color=ffffff&icon_color=ffff00" />
-
-[troll]: https://1e9end.github.io/lol
-[website]: https://1e9end.github.io
-[github]:  https://github.com/1e9end
-[youtube]: https://www.youtube.com/channel/UClZN6f71XImxoznqJ4jPknw
-[discord]: https://discord.com/users/365886855469727745
-[aops]: https://artofproblemsolving.com/community/user/polarity
-[graphics]: https://1e9end.github.io/graphics
-[shadertoy]: https://www.shadertoy.com/user/IAmLegend
-[processing]: https://1e9end.github.io/processing
+<div align="center">
+  <h2>𝗔𝗕𝗢𝗨𝗧</h2>
+  Having fun on the internet 🤙
+  <br>
+  Enjoys anime & gaming
+  <br>
+  Check out my <a href="https:/1e9end.github.io">website</a>
+  <br>
+  <h2>𝗜𝗡𝗧𝗘𝗥𝗘𝗦𝗧𝗦</h2>
+  <table>
+    <tr>
+      <td>Web Dev</td>
+      <td>Algorithmics</td>
+      <td>Netsec</td>
+    </tr>
+    <tr>
+      <td>Math</td>
+      <td>CG Shading</td>
+      <td>Game Dev</td>
+    </tr>
+    <tr>
+      <td>Anime</td>
+      <td>Gaming</td>
+      <td>Music</td>
+    </tr>
+  </table>
+  <h2>𝗦𝗞𝗜𝗟𝗟𝗦</h2>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Javacript-F7DF1E?logo=Javascript&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge">
+  <br>
+  <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=Typescript&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge">
+  <br>
+  <img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge">
+  <br>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=MariaDB&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-GNU Bash-4EAA25?logo=GNU Bash&logoColor=white&style=for-the-badge"> 
+  
+  
+  <h2>𝗖𝗢𝗡𝗧𝗔𝗖𝗧</h2>
+  Friend me on <a href="https://artofproblemsolving.com/community/user/polarity" target="_blank">AoPS</a>, Discord: <code>polarity#1114</code>
+</div>
