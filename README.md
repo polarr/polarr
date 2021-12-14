@@ -4,7 +4,7 @@
   <br>
   Enjoys anime & gaming
   <br>
-  Check out my <a href="https://1e9end.github.io">website</a>
+  Check out my <a href="https://polarr.github.io">website</a>
   <br>
   <h2>𝗜𝗡𝗧𝗘𝗥𝗘𝗦𝗧𝗦</h2>
   <table>
