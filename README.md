@@ -1,6 +1,6 @@
 <div align="center">
   <h2>𝗔𝗕𝗢𝗨𝗧</h2>
-  Having fun on the internet 🤞
+  Having fun on the internet✌️
   <br>
   Enjoys anime & gaming
   <br>
