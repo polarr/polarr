@@ -40,10 +40,10 @@
   <img src="https://img.shields.io/badge/-Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge">
   <br>
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=MariaDB&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgresQL&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-GNU Bash-4EAA25?logo=GNU Bash&logoColor=white&style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=white&style=for-the-badge"> 
   
   
   <h2>𝗖𝗢𝗡𝗧𝗔𝗖𝗧</h2>
