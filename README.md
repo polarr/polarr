@@ -5,7 +5,7 @@
 Hi! I'm polarity, a 16 y/o from Canada interested in Math and CS.
 Regarding CS, I'm mainly focused on Web Development but also dabble with Algorithmics and Computer Graphics.
 
-I co-founded [Math et al](https://mathetal.netlify.app), a STEM organization hosting events and providing resources for students to learn and have fun. We launched [Virtual Olympiad](https://github.com/polarr/virtual-olympiad), an online multiplayer practice platform for competition math. 
+I co-founded [Math et al](https://mathetal.netlify.app), a STEM organization hosting fun contests, events, and providing resources for students to learn and enjoy the sciences.
 
 [`site`](https://polarr.github.io) · [`aops`](https://artofproblemsolving.com/community/user/polarity) ·  [`tropicomango#1114`](https://discord.com) 
 
