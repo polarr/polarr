@@ -6,7 +6,7 @@ Hi! I'm polarity, also known as TropicoMango 🥭.
 
 I'm interested in CS and Math, especially *webdev, netsec, algorithmics, graphics rendering*.
 
-- 🔭 Academics: Linear Algebra, Multivariate Calculus
+- 🔭 Academics: Linear Algebra, Multivariate Calculus, Olympiad Mathematics
 - 🎮 Games: Tetris, Osu!, DST
 
 I co-founded [Math et al](https://mathetal.org), a STEM organization hosting fun contests, events, and providing resources for students to learn and enjoy the sciences.
