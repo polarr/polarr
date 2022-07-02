@@ -6,9 +6,6 @@ Hi! I'm polarity, also known as TropicoMango 🥭.
 
 I'm interested in CS and Math, especially *webdev, netsec, algorithmics, graphics rendering*.
 
-- 🔭 Academics: Linear Algebra, Multivariate Calculus, Olympiad Mathematics
-- 🎮 Games: Tetris, Osu!, DST
-
 I co-founded [Math et al](https://mathetal.org), a STEM organization hosting fun contests, events, and providing resources for students to learn and enjoy the sciences.
 
-[`site`](https://polarr.github.io) · [`projects`](//) · [`blog`](//) · [`yt`](https://www.youtube.com/channel/UClZN6f71XImxoznqJ4jPknw) · [`aops`](https://artofproblemsolving.com/community/user/polarity) · [`cf`](https://polarr.github.io) · [`shader`](https://www.shadertoy.com/user/IAmLegend) · [`tropicomango#1114`](https://discord.com)
+[`site`](https://polarr.github.io) · [`projects`](//) · [`blog`](//) · [`aops`](https://artofproblemsolving.com/community/user/polarity) · [`shader`](https://www.shadertoy.com/user/IAmLegend)
