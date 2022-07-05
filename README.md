@@ -8,4 +8,4 @@ I'm interested in CS and Math, especially *webdev, netsec, algorithmics, graphic
 
 I co-founded [Math et al](https://mathetal.org), a STEM organization hosting fun contests, events, and providing resources for students to learn and enjoy the sciences.
 
-[`site`](https://polarr.github.io) · [`projects`](//) · [`blog`](//) · [`aops`](https://artofproblemsolving.com/community/user/polarity) · [`shader`](https://www.shadertoy.com/user/IAmLegend)
+[`site (quite old)`](https://polarr.github.io) · [`projects`](//) · [`blog`](//) · [`aops`](https://artofproblemsolving.com/community/user/polarity) · [`shader`](https://www.shadertoy.com/user/IAmLegend)
