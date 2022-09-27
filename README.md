@@ -4,11 +4,9 @@
 
 Hi! I'm polarity, also known as TropicoMango 🥭. 
 
-I'm interested in CS and Math, especially webdev, netsec, algorithmics, & graphics rendering.
+I'm interested in fullstack webdev, netsec, algorithmics, & graphics rendering.
 
-
-- 🚀 Academics: Linear Algebra, Multivariate Calculus, Olympiad Mathematics
-- ⚙️ Favorite Technologies: 
+- 🚀 Favorite Technologies: 
 
   <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=Typescript&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-SvelteKit-FF3E00?logo=svelte&logoColor=white&style=for-the-badge">
@@ -18,6 +16,6 @@ I'm interested in CS and Math, especially webdev, netsec, algorithmics, & graphi
 
 I co-founded [Math et al](https://mathetal.org), a STEM organization hosting fun contests, events, and providing resources for students to learn and enjoy the sciences.
 
-*Lots of profile links are old or not working, I'll update them soon when I finish current projects.*
+*Lots of these links are old or not working, I'll update them soon when I finish current projects.*
 
 [`site (quite old)`](https://polarr.github.io) · [`projects`](//) · [`blog`](//) · [`aops`](https://artofproblemsolving.com/community/user/polarity) · [`shader`](https://www.shadertoy.com/user/IAmLegend)
