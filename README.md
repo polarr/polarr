@@ -11,12 +11,13 @@ I'm interested in fullstack webdev, netsec, algorithmics, & graphics rendering.
   <div>
     <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=Typescript&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/-SvelteKit-FF3E00?logo=svelte&logoColor=white&style=for-the-badge">
-    <img src="https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge">
   </div>
   <div>
+    <img src="https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge">
-     <img src="https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white&style=for-the-badge">
+  <div>
+    <img src="https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge">
   </div>
 
