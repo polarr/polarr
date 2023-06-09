@@ -24,6 +24,6 @@ I'm interested in fullstack webdev, netsec, algorithmics, & computer graphics.
 I co-founded [Math et al](https://mathetal.org), a STEM organization hosting fun contests, events, and providing resources for students to learn and enjoy the sciences.
 
 ---
-Lots of these links are outdated or not working, I'll update them *soon™️* (~a month).
+These links need an update... I'll do it *soon™️*
 
-[`site (quite old)`](https://polarr.github.io) · [`projects`](//) · [`blog`](//) · [`aops`](https://artofproblemsolving.com/community/user/polarity) · [`shader`](https://www.shadertoy.com/user/IAmLegend)
+[`site (update in progress)`](https://polarity.sh) · [`projects`](https://polarity.sh/projects) · [`blog`](https://polarity.sh/blog) · [`aops`](https://artofproblemsolving.com/community/user/polarity) · [`shader`](https://www.shadertoy.com/user/IAmLegend)
