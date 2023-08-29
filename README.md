@@ -4,7 +4,7 @@
 
 I'm `polarity`, also known as `TropicoMango 🥭`. 
 
-I'm interested in fullstack webdev, netsec, algorithmics, & computer graphics.
+I'm interested in fullstack webdev, algorithmics, game dev & computer graphics.
 
 - 🚀 Favorite Technologies: 
 
@@ -13,8 +13,7 @@ I'm interested in fullstack webdev, netsec, algorithmics, & computer graphics.
     <img src="https://img.shields.io/badge/-SvelteKit-FF3E00?logo=svelte&logoColor=white&style=for-the-badge">
   </div>
   <div>
-    <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=red&style=for-the-badge">
-    <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/-Supabase-3FCF8E?logo=supabase&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white&style=for-the-badge">
   <div>
     <img src="https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge">
@@ -26,4 +25,4 @@ I co-founded [Math et al](https://mathetal.org), a STEM organization hosting fun
 ---
 These links need an update... I'll do it *soon™️*
 
-[`site (update in progress)`](https://polarity.sh) · [`projects`](https://polarity.sh/projects) · [`blog`](https://polarity.sh/blog) · [`aops`](https://artofproblemsolving.com/community/user/polarity) · [`shader`](https://www.shadertoy.com/user/IAmLegend)
+[`site`](https://polarity.sh) · [`blog`](https://blog.polarity.sh) · [`mail`](mailto:polarity@polarity.sh) · [`projects`](https://polarity.sh/projects) · [`aops`](https://artofproblemsolving.com/community/user/polarity) · [`shader`](https://www.shadertoy.com/user/IAmLegend)
