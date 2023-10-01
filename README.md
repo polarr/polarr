@@ -1,4 +1,4 @@
-### Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
+### Hey!
 
 <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=polarr&show_icons=true&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&count_private=false&include_all_commits=true" />
 
