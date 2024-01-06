@@ -25,4 +25,4 @@ I co-founded [Math et al](https://mathetal.org), a STEM organization hosting fun
 ---
 These links need an update... I'll do it *soon™️*
 
-[`site`](https://polarity.sh) · [`blog`](https://blog.polarity.sh) · [`mail`](mailto:polarity@polarity.sh) · [`projects`](https://polarity.sh/projects) · [`aops`](https://artofproblemsolving.com/community/user/polarity) · [`shader`](https://www.shadertoy.com/user/IAmLegend)
+[`site`](https://polarity.sh) · [`blog`](https://blog.polarity.sh) · [`mail`](mailto:polarity@polarity.sh) · [`projects`](https://polarity.sh/projects) · [`aops`](https://artofproblemsolving.com/community/user/polarity) · [`resume`](https://polarity.sh/redirect/resume)
