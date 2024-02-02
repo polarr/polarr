@@ -4,7 +4,7 @@
 
 I'm `polarity`, also known as `Mango (🥭)`. 
 
-I'm interested in fullstack webdev, algorithmics, game dev & computer graphics.
+I'm interested in fullstack webdev, competitive programming, game dev & computer graphics.
 
 - 🚀 Favorite Technologies: 
 
