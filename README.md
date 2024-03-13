@@ -20,9 +20,6 @@ I'm interested in fullstack webdev, competitive programming, game dev & computer
     <img src="https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge">
   </div>
 
-I co-founded [Math et al](https://mathetal.org), a STEM organization hosting fun contests, events, and providing resources for students to learn and enjoy the sciences.
-
 ---
-These links need an update... I'll do it *soon™️*
 
-[`site`](https://polarity.sh) · [`blog`](https://blog.polarity.sh) · [`mail`](mailto:polarity@polarity.sh) · [`projects`](https://polarity.sh/projects) · [`aops`](https://artofproblemsolving.com/community/user/polarity) · [`resume`](https://polarity.sh/redirect/resume)
+[`site`](https://polarity.sh) · [`blog`](https://polarity.sh/blog) · [`mail`](mailto:polarity@polarity.sh) · [`projects`](https://polarity.sh/projects) · [`aops`](https://artofproblemsolving.com/community/user/polarity) · [`resume`](https://polarity.sh/redirect/resume)
