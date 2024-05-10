@@ -4,7 +4,7 @@
 
 I'm `polarity`, also known as `Mango (🥭)`. 
 
-I'm interested in fullstack webdev, competitive programming, game dev & computer graphics.
+I'm interested in fullstack webdev, artificial intelligence, competitive programming & computer graphics.
 
 - 🚀 Favorite Technologies: 
 
@@ -22,4 +22,4 @@ I'm interested in fullstack webdev, competitive programming, game dev & computer
 
 ---
 
-[`site`](https://polarity.sh) · [`blog`](https://polarity.sh/blog) · [`mail`](mailto:polarity@polarity.sh) · [`projects`](https://polarity.sh/projects) · [`aops`](https://artofproblemsolving.com/community/user/polarity) · [`resume`](https://polarity.sh/redirect/resume)
+[`site`](https://polarity.sh) · [`blog`](https://polarity.sh/blog) · [`mail`](mailto:polarity@polarity.sh) · [`projects`](https://polarity.sh/projects) · [`resume`](https://polarity.sh/redirect/resume)
