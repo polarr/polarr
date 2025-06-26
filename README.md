@@ -2,9 +2,9 @@
 
 <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=polarr&show_icons=true&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&count_private=false&include_all_commits=true" />
 
-I'm `polarity`, also known as `Mango (🥭)`. 
+I'm Charles Ran, also known as `polarity`. I study CS/Math at the University of British Columbia.
 
-I'm interested in fullstack webdev, artificial intelligence, competitive programming & computer graphics.
+I'm interested in fullstack webdev, machine learning, competitive programming & computer graphics.
 
 - 🚀 Favorite Technologies: 
 
