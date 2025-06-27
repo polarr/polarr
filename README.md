@@ -1,6 +1,6 @@
 ### Hey!
 
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=polarr&show_icons=true&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&count_private=false&include_all_commits=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=polarr&hide_title=true&text_color=718096&bg_color=00000000&show_icons=true&hide_border=true&count_private=false" />
 
 I'm Charles Ran, also known as `polarity`. I study CS/Math at the University of British Columbia.
 
