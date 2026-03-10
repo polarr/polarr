@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=polarr&hide_title=true&text_color=718096&bg_color=00000000&show_icons=true&hide_border=true&count_private=false" />
 
-I'm Charles Ran. I study CS/Math at the University of British Columbia.
+I'm Charles. I study CS/Math at the University of British Columbia.
 
 I'm interested in fullstack webdev, machine learning, competitive programming & computer graphics.
 
